@@ -4,6 +4,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-brightgreen)](https://pandas.pydata.org/)
 [![Dataset](https://img.shields.io/badge/Yelp-Open%20Dataset-red)](https://business.yelp.com/data/resources/open-dataset/)
 
+## 🌟 Problem Statement
+
+Fusion cuisine has become a popular culinary trend, combining components from several culinary traditions to create unique eating experiences.  Despite its popularity, data-driven research is scarce on what makes fusion restaurants successful in terms of customer happiness, company performance, and market placement.  Restaurant owners and entrepreneurs interested in this area encounter confusion about the best combinations of food kinds, restaurant qualities, pricing tactics, and customer-friendly service aspects.  The Yelp Open Dataset provides a unique opportunity to investigate these concerns by analyzing detailed business information and user-generated reviews.  This study intends to solve the difficulty of determining which fusion cuisine combinations are most well-received, how consumer sentiment connects with restaurant features, and what patterns emerge among successful fusion restaurants.  This study uses data mining techniques such as association rule learning, clustering, and classification to uncover actionable insights into consumer preferences and behavioral trends in the fusion cuisine segment, which will ultimately guide strategic menu development, pricing, and marketing decisions.
+
 ## 🎯 Objective
 
 This project aims to analyze consumer behavior related to fusion cuisine by examining review sentiments, rating patterns, and visit frequencies. By identifying patterns in customer feedback and restaurant attributes, the study seeks to provide actionable insights for restaurant owners considering a fusion concept.
